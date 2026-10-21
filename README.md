@@ -1,16 +1,18 @@
 # 召喚ホログラムシステム
-=======================================
+
 
 ## 使い方
-1. Python 3.10以降をインストールしてください。
-   https://www.python.org/downloads/windows/
+1. Python 3.10以降をインストールしてください。<br>
+   <https://www.python.org/downloads/windows/><br>
    インストール時「Add Python to PATH」をチェック。
-2. このフォルダを展開し、start_windows.bat をダブルクリック。
+2. このフォルダを展開し、start_windows.bat をダブルクリック。<br>
    初回のみインターネット接続で PySide6 を自動インストールします。
 3. 人物をPowerPointやブラウザなどで表示してください。
-4. 操作パネルの「中心 X」「足元 Y」「幅」「高さ」を人物に合わせて調整。
+4. 操作パネルの「中心 X」「足元 Y」「幅」「高さ」を人物に合わせて調整。<br>
    X は人物の中央、Y は人物の足元の画面座標です。
 5. 操作パネルの「終了」でアプリを閉じます。
+
+＊このアプリはChatbot（<https://github.com/ithiel-committee/chatbot>）アプリと一緒に使用します
 
 ## 仕様
 - 画面の上に透明な透過エフェクトを重ねます。
